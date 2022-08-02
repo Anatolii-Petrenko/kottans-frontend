@@ -37,7 +37,7 @@ I got a lot of useful information about commits and branches from this course.
 - Passed sections "*Introduction Sequence*
 " and "*Push & Pull*" of the simulator [learngitbranching.js.org](https://learngitbranching.js.org/)
 
->For my mind, the tasks lack realism. in real use, the commands are more detailed.
+> The training was interesting and useful for understanding the GIT workflow and a little practice.
 
 <details>
 	<summary>Results:</summary>
