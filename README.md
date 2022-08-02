@@ -12,7 +12,7 @@ The repository was created for educational purposes with *Kottans*. I will post 
 
 # Stage_0
 - [x] Git, GitHub, git flow
-- [ ] Linux, командний рядок, основи нетворкінгу
+- [x] Linux, командний рядок, основи нетворкінгу
 - [ ] HTML, CSS
 - [ ] JS basics
 - [ ] Frontend framework basics (React)
