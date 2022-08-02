@@ -27,15 +27,46 @@ The repository was created for educational purposes with *Kottans*. I will post 
 >The course well and clearly explained the basics of GIT.
 I got a lot of useful information about commits and branches from this course.
 
-Results:
-![Result 1, GIT Quiz](/FilesForReadme/GITQuiz1.png)
-![Result 2, GIT Quiz](/FilesForReadme/GITQuiz2.png)
+<details>
+	<summary>Results:</summary>
+	<img src="FilesForReadme/GITQuiz1.png">
+	<p></p>
+  <img src="FilesForReadme/GITQuiz2.png">
+</details>
 
 - Passed sections "*Introduction Sequence*
 " and "*Push & Pull*" of the simulator [learngitbranching.js.org](https://learngitbranching.js.org/)
 
 >For my mind, the tasks lack realism. in real use, the commands are more detailed.
 
-Results:
-![Result, Main](/FilesForReadme/learngitbranchingMain.png)
-![Result, Remote](/FilesForReadme/learngitbranchingRemote.png)
+<details>
+	<summary>Results:</summary>
+	<img src="FilesForReadme/learngitbranchingMain.png">
+	<p></p>
+  <img src="FilesForReadme/learngitbranchingRemote.png">
+</details>
+
+_______________________
+
+## Linux CLI, and HTTP
+
+- Passed [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/)
+
+> I had a basic knowledge of the structure of the directory tree in Unix systems and the basic commands in the terminal. The course helped to extend my knowledge and make practice in "zsh".
+
+<details>
+	<summary>"Linux Survival" Quiz results:</summary>
+	<img src="task_linux_cli/QuizNumber1.png">
+	<p></p>
+	<img src="task_linux_cli/QuizNumber2.png">
+	<p></p>
+	<img src="task_linux_cli/QuizNumber3.png">
+	<p></p>
+	<img src="task_linux_cli/QuizNumber4.png">
+</details>
+
+- Familiarized with HTTP from articles:
+	- [HTTP: The Protocol Every Web Developer Must Know—Part 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+	- [HTTP: The Protocol Every Web Developer Must Know—Part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+> I got a basic understanding of client-server communication. I would not say that this information is very interesting :) but definitely useful. I had to use additional sources to understand some aspects of the article.
