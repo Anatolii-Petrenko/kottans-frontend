@@ -29,12 +29,18 @@ I got a lot of useful information about commits and branches from this course.
 
 <details>
 	<summary>Results:</summary>
-	<img src="FilesForReadme/GITQuiz1.png">
+	<img src="FilesForReadme/W11_PracticeQuiz_BeforeVersionControl.png">
 	<p></p>
-  <img src="FilesForReadme/GITQuiz2.png">
+  <img src="FilesForReadme/W12_PracticeQuiz_VersionControlSystems.png">
+	<p></p>
+  <img src="FilesForReadme/W13_PracticeQuiz_UsingGit.png">
+	<p></p>
+  <img src="FilesForReadme/W21_PracticeQuiz_AdvancedGitInteraction.png">
+	<p></p>
+  <img src="FilesForReadme/W22_PracticeQuizUndoingThings.png">
+	<p></p>
+  <img src="FilesForReadme/W23_PracticeQuiz_BranchingMerging.png">
 </details>
-
-
 
 - Passed sections "*Introduction Sequence*
 " and "*Push & Pull*" of the simulator [learngitbranching.js.org](https://learngitbranching.js.org/)
