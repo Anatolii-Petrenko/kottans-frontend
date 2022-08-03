@@ -34,6 +34,8 @@ I got a lot of useful information about commits and branches from this course.
   <img src="FilesForReadme/GITQuiz2.png">
 </details>
 
+
+
 - Passed sections "*Introduction Sequence*
 " and "*Push & Pull*" of the simulator [learngitbranching.js.org](https://learngitbranching.js.org/)
 
