@@ -31,19 +31,26 @@ ___
 
 - Listened part (weeks 1,2) of the course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
+
 <details>
-	<summary>Results:</summary>
-	<img src="task_git_github_git_flow/W11_PracticeQuiz_BeforeVersionControl.png">
+<summary>Results:</summary>
+	<img src="task_git_github_git_flow/W1_IntroductionToVersionControl.png">
 	<p></p>
-  <img src="task_git_github_git_flow/W12_PracticeQuiz_VersionControlSystems.png">
-	<p></p>
-  <img src="task_git_github_git_flow/W13_PracticeQuiz_UsingGit.png">
-	<p></p>
-  <img src="task_git_github_git_flow/W21_PracticeQuiz_AdvancedGitInteraction.png">
-	<p></p>
-  <img src="task_git_github_git_flow/W22_PracticeQuizUndoingThings.png">
-	<p></p>
-  <img src="task_git_github_git_flow/W23_PracticeQuiz_BranchingMerging.png">
+	<img src="task_git_github_git_flow/W2_UsingGitLocally.png">
+		<details>
+			<summary>Quizes results:</summary>
+			<img src="task_git_github_git_flow/W11_PracticeQuiz_BeforeVersionControl.png">
+			<p></p>
+			<img src="task_git_github_git_flow/W12_PracticeQuiz_VersionControlSystems.png">
+			<p></p>
+			<img src="task_git_github_git_flow/W13_PracticeQuiz_UsingGit.png">
+			<p></p>
+			<img src="task_git_github_git_flow/W21_PracticeQuiz_AdvancedGitInteraction.png">
+			<p></p>
+			<img src="task_git_github_git_flow/W22_PracticeQuizUndoingThings.png">
+			<p></p>
+			<img src="task_git_github_git_flow/W23_PracticeQuiz_BranchingMerging.png">
+		</details>
 </details>
 
 >The course well and clearly explained the basics of GIT.
@@ -93,17 +100,23 @@ I got a lot of useful information about commits and branches from this part of t
 
 <details>
 	<summary>Results:</summary>
-	<img src="task_git_collaboration/W31_PracticeQuiz_IntroductionToGitHub.png">
-	<p></p>
-	<img src="task_git_collaboration/W32_PracticeQuiz_UsingRemoteRepository.png">
-	<p></p>
-	<img src="task_git_collaboration/W33_PracticeQuiz_SolvingConflicts.png">
-	<p></p>
-	<img src="task_git_collaboration/W41_PracticeQuiz_PullRequests.png">
-	<p></p>
-	<img src="task_git_collaboration/W42_PracticeQuiz_CodeReviews.png">
-	<p></p>
-	<img src="task_git_collaboration/W43_PracticeQuiz_ManagingCollaboration.png">
+		<img src="task_git_collaboration/W3_WorkingWithRemotes.png">
+		<p></p>
+		<img src="task_git_collaboration/W4_Collaboration.png">
+			<details>
+			<summary>Quizes results:</summary>
+			<img src="task_git_collaboration/W31_PracticeQuiz_IntroductionToGitHub.png">
+			<p></p>
+			<img src="task_git_collaboration/W32_PracticeQuiz_UsingRemoteRepository.png">
+			<p></p>
+			<img src="task_git_collaboration/W33_PracticeQuiz_SolvingConflicts.png">
+			<p></p>
+			<img src="task_git_collaboration/W41_PracticeQuiz_PullRequests.png">
+			<p></p>
+			<img src="task_git_collaboration/W42_PracticeQuiz_CodeReviews.png">
+			<p></p>
+			<img src="task_git_collaboration/W43_PracticeQuiz_ManagingCollaboration.png">
+		</details>
 </details>
 
 >I got a lot of useful information about working with remote repositories from this part of the course. This knowledge can be implemented in work even now and will be useful in the future.
