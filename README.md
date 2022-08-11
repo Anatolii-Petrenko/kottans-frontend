@@ -145,7 +145,7 @@ I got a lot of useful information about commits and branches from this part of t
 
 >The course was easy to follow since I previously know the basics of HTML and CSS. Topics about semantics in HTML and the CSS selectors specificity hierarchy were new and interesting to me.
 
-- Passed [Learn HTML](https://www.codecademy.com/learn/learn-html) course from Codeacademy.
+- Passed [Learn HTML](https://www.codecademy.com/learn/learn-html) course from Codecademy.
 
 <details>
 	<summary>Results:</summary>
@@ -154,7 +154,7 @@ I got a lot of useful information about commits and branches from this part of t
 
 >The information from this course almost duplicates the information from the course from Coursera, but it's very cool that there is an opportunity to practice online. An interesting and new topic for me was the validation of input fields.
 
-- Passed [Learn CSS](https://www.codecademy.com/learn/learn-css) course from Codeacademy.
+- Passed [Learn CSS](https://www.codecademy.com/learn/learn-css) course from Codecademy.
 
 <details>
 	<summary>Results:</summary>
