@@ -20,7 +20,7 @@ ___
 - [x] Git, GitHub, git flow
 - [x] Linux, командний рядок, основи нетворкінгу
 - [x] Git Collaboration
-- [ ] HTML, CSS
+- [x] HTML, CSS
 - [ ] JS basics
 - [ ] Frontend framework basics (React)
 - [ ] TypeScript basics
@@ -131,3 +131,34 @@ I got a lot of useful information about commits and branches from this part of t
 </details>
 
 >It was already a little easier to complete these tasks because I already figured out the simulator. Although some tasks made me think about the implementation.
+
+## Intro to HTML and CSS
+
+- Passed week 1 and week 2 of the course [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers) from coursera.
+
+<details>
+	<summary>Results:</summary>
+	<img src="task_html_css_intro/W1_IntroductionToHTML5.png">
+	<p></p>
+	<img src="task_html_css_intro/W2_IntroductionToCSS3.png">
+</details>
+
+>The course was easy to follow since I previously know the basics of HTML and CSS. Topics about semantics in HTML and the CSS selectors specificity hierarchy were new and interesting to me.
+
+- Passed [Learn HTML](https://www.codecademy.com/learn/learn-html) course from Codeacademy.
+
+<details>
+	<summary>Results:</summary>
+	<img src="task_html_css_intro/CA_IntroductionToHTML.png">
+</details>
+
+>The information from this course almost duplicates the information from the course from Coursera, but it's very cool that there is an opportunity to practice online. An interesting and new topic for me was the validation of input fields.
+
+- Passed [Learn CSS](https://www.codecademy.com/learn/learn-css) course from Codeacademy.
+
+<details>
+	<summary>Results:</summary>
+	<img src="task_html_css_intro/CA_IntroductionToCSS.png">
+</details>
+
+>An interesting and new topic from this part of the course was TYPOGRAPHY and connecting the external fonts.
