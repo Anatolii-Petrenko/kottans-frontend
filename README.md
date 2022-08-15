@@ -133,6 +133,7 @@ I got a lot of useful information about commits and branches from this part of t
 >It was already a little easier to complete these tasks because I already figured out the simulator. Although some tasks made me think about the implementation.
 
 ## Intro to HTML and CSS
+### _Studied in this module:_
 
 - Passed week 1 and week 2 of the course [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers) from coursera.
 
@@ -162,3 +163,36 @@ I got a lot of useful information about commits and branches from this part of t
 </details>
 
 >An interesting and new topic from this part of the course was TYPOGRAPHY and connecting the external fonts.
+
+## Responsive Web Design
+
+### _Studied in this module:_
+
+- Read the article [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+>I learned a lot of useful information from the article, which I will apply in future projects.
+
+- Watched the mini-course:[FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+
+>It was useful and interesting content, the examples given by the author are especially helpful in understanding. I will use the cheat sheets provided by the author of the video :).
+
+- Passed the game [Flexbox Froggy](http://flexboxfroggy.com/).
+
+<details>
+	<summary>Results:</summary>
+	<img src="task_responsive_web_design/flexbox_froggy.png">
+</details>
+
+> I passed the game without difficulties. The game didn't take long.
+
+- Watched the mini-course:[CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+
+>Like the previous mini-course, this one was useful and interesting, the example allows me to better understand and consolidate the material.
+
+- Passed the game [Grid Garden](http://cssgridgarden.com/)
+
+<details>
+	<summary>Results:</summary>
+	<img src="task_responsive_web_design/grid_garden.png">
+</details>
+
+>The game did not cause any problems but task 26 got me thinking.
