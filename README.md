@@ -196,3 +196,9 @@ I got a lot of useful information about commits and branches from this part of t
 </details>
 
 >The game did not cause any problems but task 26 got me thinking.
+
+## HTML-CSS-Popup
+
+[Demo](https://anatolii-petrenko.github.io/popup-task-html-css/)
+
+>This task helps better understand how and when flex should be applied and when will be better to apply grids. Also, it was a great practice of working with classes, especially with the namings of the classes. I will use the knowledge gained during this task in future projects.
