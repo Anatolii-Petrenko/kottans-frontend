@@ -202,3 +202,36 @@ I got a lot of useful information about commits and branches from this part of t
 [Demo](https://anatolii-petrenko.github.io/popup-task-html-css/)
 
 >This task helps better understand how and when flex should be applied and when will be better to apply grids. Also, it was a great practice of working with classes, especially with the namings of the classes. I will use the knowledge gained during this task in future projects.
+
+## JS Basics
+It was not easy for me to pass the tasks. I spent more than two weeks completing all the necessary tasks. Unfortunately some of the tasks I couldn't solve at all without hints. Surprisingly, the passage of "Algorithm Scripting Challenges" was easier than others for me, perhaps because I gradually started to understand on which side to approach the task.
+I hope that it will turn out to apply the acquired knowledge in practice in the subsequent practical tasks.
+<details>
+	<summary>Вступ до JS:</summary>
+	<img src="task_js_basics/W3_introduction-to-javascript.png">
+</details>
+
+<details>
+	<summary>Basic JavaScript:</summary>
+	<img src="task_js_basics/Basic-JavaScript.png">
+</details>
+<details>
+	<summary>ES6 Challenges:</summary>
+	<img src="task_js_basics/ES6.png">
+</details>
+<details>
+	<summary>Basic Data Structures:</summary>
+	<img src="task_js_basics/Basic-Data-Structures.png">
+</details>
+<details>
+	<summary>Basic Algorithm Scripting:</summary>
+	<img src="task_js_basics/Basic-Algorithm-Scripting.png">
+</details>
+<details>
+	<summary>Functional Programming:</summary>
+	<img src="task_js_basics/Functional-Programming.png">
+</details>
+<details>
+	<summary>Algorithm Scripting Challenges:</summary>
+	<img src="task_js_basics/Intermediate-Algorithm-Scripting.png">
+</details>
